@@ -15,15 +15,6 @@ Currently learning **DevSecOps, Cloud Security, and Vulnerability Assessment**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
-
-## 🚀 Featured Projects  
-- 🔐 [**2FA Authentication App**](https://github.com/YourUsername/2fa-app) – Flask-based 2FA with Google Authenticator.  
-- 🛡️ [**Python Firewall GUI**](https://github.com/YourUsername/python-firewall) – Real-time firewall with OTP login & live graphs.  
-- 📊 [**Network Monitoring Dashboard**](https://github.com/YourUsername/network-monitor) – Visualize live network stats & alerts.  
-
----
-
 
 ---
 
