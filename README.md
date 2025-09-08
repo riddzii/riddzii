@@ -1,4 +1,2 @@
 - Hi, I’m Riddhi
-- I’m interested in Ethical Hacking
-- I’m currently learning cybersecurity
 - Email: iriddhiks@gmail.com
