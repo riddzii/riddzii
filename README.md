@@ -2,8 +2,8 @@
 
 🔐 Cybersecurity Enthusiast | 🖥️Ethical Hacker | 🌐 Network Security 
 
-I’m passionate about **building secure applications, exploring network defense, and contributing to cybersecurity projects.**  
-Currently learning **DevSecOps, Cloud Security, and Vulnerability Assessment**  
+I’m passionate about **building secure applications, exploring network defense and contributing to cybersecurity projects.**  
+
 
 ---
 
